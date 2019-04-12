@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{607A7D1B-0FA4-0DD2-802C-A421B1CBE0A0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/flowerPlacer.cs">
+    <Files>
+      <File FileName="Assets/flowerPlacer.cs" Line="27" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.dancingTree PreferredExecutionTarget="Unity.Editor" />
+</Properties>
